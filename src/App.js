@@ -5,7 +5,7 @@ import React from "react";
 import Navbar from "./component/Navbar";
 import News from "./component/News";
 
-import { HashRouter as Router, 
+import { BrowserRouter as Router, 
 Route,
 Routes} from "react-router-dom";
 const App = () => {
